@@ -1,6 +1,6 @@
 package Problem1;
 import java.util.Scanner;
-
+//made by Rake1713
 
 public class Analyzer {
     public static void main(String[] args){
