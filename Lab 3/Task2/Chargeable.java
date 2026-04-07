@@ -1,0 +1,3 @@
+interface Chargeable {
+    void charge(); 
+}
